@@ -13,7 +13,7 @@ header{
     width: 100%;
     height: 150px;
     background-color: blueviolet;
-    margin: 20px 0 20px 0;
+    margin: 30px 0 30px 0;
 }
 
 main{
@@ -24,7 +24,7 @@ main{
     width: 100%;
     height: 400px;
     background-color: goldenrod;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .dark-blue{
@@ -37,7 +37,7 @@ footer{
     width: 100%;
     height: 70px;
     background-color: purple;
-    margin: 20px 0px 20px 0px;
+    margin: 15px 0px 20px 0px;
 }
 
 
@@ -69,13 +69,3 @@ footer{
     display: table;
     clear: both;
 }
-
-/* .sidebar:first-of-type{
-    margin: 10px;
-    margin-right: 10px;
-    margin-top: 0;
-}
-
-.sidebar:last-of-type{
-   margin-bottom: 10px;
-} */
