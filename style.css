@@ -12,7 +12,7 @@
 header{
     width: 100%;
     height: 100px;
-    background-color: purple;
+    background-color: blueviolet;
     margin: 20px 0 20px 0;
 }
 
@@ -33,5 +33,11 @@ main{
     background-color: blue;
 }
 
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: purple;
+    margin: 20px 0px 20px 0px;
+}
 
 
