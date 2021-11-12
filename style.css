@@ -1,3 +1,5 @@
+/* Generals */
+
 *{
     margin: 0;
     padding: 0;
@@ -8,6 +10,16 @@
     width: 1000px;
     margin: auto;
 }
+
+/* Utilities */
+
+.clearfix{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/* Big Blocks */
 
 header{
     width: 100%;
@@ -41,6 +53,8 @@ footer{
 }
 
 
+/* Small Boxes */
+
 .light-blue-header{
     width: 100%;
     height: 15%;
@@ -64,8 +78,3 @@ footer{
     margin-right: 20px;
 }
 
-.clearfix{
-    content: '';
-    display: table;
-    clear: both;
-}
