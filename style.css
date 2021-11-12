@@ -64,6 +64,12 @@ footer{
     margin-right: 10px;
 }
 
+.clearfix{
+    content: '';
+    display: table;
+    clear: both;
+}
+
 /* .sidebar:first-of-type{
     margin: 10px;
     margin-right: 10px;
